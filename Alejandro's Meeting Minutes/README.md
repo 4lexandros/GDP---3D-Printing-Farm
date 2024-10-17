@@ -8,6 +8,23 @@ This README markdown document contains my meeting minutes for each of our meetin
 **SM = Supervised Meeting (i.e. a meeting with Ara and/or Gary).**
 <br>
 **UM = Unsupervised Meeting (i.e. a meeting whithout supervisors).**
+___
+___
+
+
+## UM Wednesday 16th October 2024
+Ben is absent.
+* Tim started work on the Gantt Chart.
+    * He should add the deadlines from the guidance.
+* Danae suggested asking for the out of hours permission from Ara and Alex Toth.
+* Danae suggested that we prepare for our week 4 presentation. In it we should show:
+    * Lay out what stage we're at.
+    * What we're doing.
+    * Stakeholders.
+    * GanttChart
+    * What decissions we've made.
+    * Vicky suggested: LOOK AT MARKING SCHEME and do a checklist presentation.
+* Danae has made an online excel to prepare for our formative presentation session.
 
 ## SM Monday 14th October 2024
 Vicky is absent due to an appointment
@@ -43,6 +60,9 @@ Vicky is absent due to an appointment
     * Give time for additional iteration after the final solution has been developed.
 * For deciding our project roles keep the hierarchy as flat as possible.
 * Tim wants to be in charge of the Gantt Chart.
+
+* Ara mentioned the Halo assembly line video https://www.youtube.com/watch?v=3sQfc0VIRMk
+    * We should make a reference to this video in our GDP video :D
 
 ## UM Friday 11th October 2024
 Vicky and Ben late
