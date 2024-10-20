@@ -11,6 +11,41 @@ This README markdown document contains my meeting minutes for each of our meetin
 ___
 ___
 
+## SM Monday 20th October 2024
+### Preparations
+* Confirm Halo video https://www.youtube.com/watch?v=3sQfc0VIRMk with Ara.
+* Ask about contacting Kevin Smith for access to the EDMC throughout the project.
+* Ask about requesting out of hours access to B13 since we forsee we will proably need these.
+* Ask Andy Hamilton and Maria about what day would be best to transport printers.
+    * Ask about the rooms from which we would move these to our workspace.
+
+### Meeting
+
+### To Do
+
+## UM Friday 18th October 2024
+Vicky is late (>15m)
+
+* Danae made a timeline on teams for the whole team.
+    * Everyone is assigned objectives.
+    * Despite this system being integrated to Teams there is no automatic integration with GanttChartPro.
+
+* Tim's Gantt chart is now honest and takes into account our exam periods.
+    * The holidays have also been accounted into the Gantt chart.
+
+* Whenever I write a message on Teams that I want the team to be aware of I need to @3DPrintingFarm everyone so that they get a notification.
+
+* We need to ask Ara about the guidelines saying that we must contact Kevin Smith for EDMC access for GDP.
+
+* Everone is now given tasks to fulfil on teams.
+
+* We have decided roles!
+    * **Alejandro: Head of Product & External Relations**
+    * **Ben: Head of Software & Electronics**
+    * **Danae: Lead & Project management**
+    * **Tim: Treasurer & Hardware Integration**
+    * **Vicky: Head of Verification and Testing**
+
 
 ## UM Wednesday 16th October 2024
 Ben is absent.
@@ -46,20 +81,20 @@ Vicky is absent due to an appointment
 * If the whole system works and we prove that it works then we are in a good place.
 * Remember that this is an iterative project and the final solution may not really be the final one.
 
-**TO DO**
-* Meeting with A.Toth on Wednesday.
-    * Power requirements (sockets for printers and laptops!).
-    * Make sure that storage is secure.
-* Send team NASA document about how to make a good requirements document.
-* A Gantt Chart has to be done by next Monday
+**TO DO [COMPLETED]**
+* ~~Meeting with A.Toth on Wednesday.~~
+    * ~~Power requirements (sockets for printers and laptops!).~~
+    * ~~Make sure that storage is secure.~~
+* ~~Send team NASA document about how to make a good requirements document.~~
+* ~~A Gantt Chart has to be done by next Monday~~
     * Gantt Chart is a living document and can change, so change it in the future whenever the need arises.
     * It should be our own group's plan.
     * Account for extra time in our Gantt chart since some processes could be affected by setbacks.
     * Do not get stuck! Keep the ball rolling.
     * Manufacturing and testing is the part that often goes wrong.
     * Give time for additional iteration after the final solution has been developed.
-* For deciding our project roles keep the hierarchy as flat as possible.
-* Tim wants to be in charge of the Gantt Chart.
+* ~~For deciding our project roles keep the hierarchy as flat as possible.~~
+* ~~Tim wants to be in charge of the Gantt Chart.~~
 
 * Ara mentioned the Halo assembly line video https://www.youtube.com/watch?v=3sQfc0VIRMk
     * We should make a reference to this video in our GDP video :D
