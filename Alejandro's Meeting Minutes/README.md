@@ -10,18 +10,70 @@ This README markdown document contains my meeting minutes for each of our meetin
 **UM = Unsupervised Meeting (i.e. a meeting whithout supervisors).**
 ___
 ___
+NEWEST ENTRIES FOLLOW:
+
+## SM Monday 28th October 2024
+
+### Preparations
+* Give Maria and Andy H. the participant sheets.
+* Explain to supervisors that we now have a GDP1 memory stick for backup and usb interfacing.
+
+### Meeting
+
+## UM Friday 25th October 2024
+
+### Meeting
+(Vicky and Ben are late >15m)
+
+* Danae explained that it is important that we are all at the meeting at the right time.
+* Vicky is still dealing with four modules this semester.
+* Ara gave us feedback and we changed the slides for this presentation.
+
+### To Do
+
+## UM Wednesday 23rd October 2024
+(Vicky and Ben are late >15m)
+
+### Meeting
+* Danae, Tim and I went through the slides and we did well on time.
+* Ben and Vicky joined late and we redid the presentation rehersal.
+
+### ToDo
+* Add references at the end of the powerpoint in case examiner asks about our claims.
 
 ## SM Monday 20th October 2024
 ### Preparations
 * Confirm Halo video https://www.youtube.com/watch?v=3sQfc0VIRMk with Ara.
 * Ask about contacting Kevin Smith for access to the EDMC throughout the project.
+    * --> Ben will contact Kevin Smith 
 * Ask about requesting out of hours access to B13 since we forsee we will proably need these.
+    * --> Ara will send an email to request out of hours access to B13.
+    * --> Danae highlighted that there is a deadline to apply for B13 jobs for GDP (soon!).
 * Ask Andy Hamilton and Maria about what day would be best to transport printers.
-    * Ask about the rooms from which we would move these to our workspace.
-
+* Ask about the rooms from which we would move these to our workspace.
+    * --> B13 and B7 : One prusa is a 3 and the other is a 3.9 so one would have to be upgraded.
+    * --> Wifi is a problem for these printers but ethernet is more stable.
+    * --> Both printers have been opened and tinkered with. 
 ### Meeting
 
+* Risks in presentation of problems that we are likely to face.
+    * What's the plan for resolving those things..
+* Usually at the end of the project two people can do the collating for a better result.
+    * Best in terms of structuring and finalising.
+*   Gantt chart should show prototyping and it is going to be iterative (looping on Gantt chart).
+    * Ideation phase continues through prototyping.
+
+* For participant sheet add supervisor email and phone (contacts).
+* Ara and Gary will facilitate contacts for our primary research.
+* Ara wishes to be added to the MS Teams plan but Gary wishes to withold from that lol.
+* Slides should contain a slide about future trends.
+    * Is this system going to be obsolete in 10 years?
+    * What is the design lifespan?
+
+
 ### To Do
+
+* ~~For Friday don't get scared if people look like they are far ahead from us.~~
 
 ## UM Friday 18th October 2024
 Vicky is late (>15m)
