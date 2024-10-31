@@ -12,13 +12,73 @@ ___
 ___
 NEWEST ENTRIES FOLLOW:
 
+
+## SM Monday 4th November 2024
+
+### Preparations
+* Thank Gary Underwood for his advice
+    * Speedrunning module FEEG1201.
+    * Total design diagram is extremely helpful.
+        * Show that I have purchased book because it is not in the library or kindle.
+    * Advice on how to write a Design Specification in general is extremely helpful.
+
+
+
+
+## UM Friday 1st November 2024
+
+### Preparations
+* Ask Danae if she could please extend the minutes and agenda document more weeks.
+    * Followup with the fact that the contact from linkedin hasn't replied yet.
+* Explain that now is a good time to re-read the marckscheme ---> Incorporate to SMART objectives.
+* Inform that R2D2 has now been improved and satisfies the first point of the markscheme.
+* Talk about PLA dust and uncertainty towards the risks it poses to humans.
+* Say that anyone is welcome to come up with a better mission patch design.
+
+### Meeting
+
+
+## UM Wednesday 30th October 2024
+(Full attendance)
+
+### Preparations
+
+* Show team the priorities mentioned by interviewees during primary research.
+
+### Meeting
+
+* We have created an excel spreadsheet where we count what requirements were brought up the most by intervewees.
+* We are aiming to produce a cost-benefit analysis on the requirements
+    * Requirements that score higher in this analysis will be added to the R2D2.
+
+
 ## SM Monday 28th October 2024
+(Full attendance)
 
 ### Preparations
 * Give Maria and Andy H. the participant sheets.
 * Explain to supervisors that we now have a GDP1 memory stick for backup and usb interfacing.
+* Explain main findings from Richard Glithro interview.
 
 ### Meeting
+
+* Ara has given me a conact from Aston University's technical department who works with 3D printers.
+* We now have better intel on how to narrow down the project.
+* Add glossary for the R2D2.
+    * Environment could be interpreted as operating environment instead of sustainability.
+* Look at Stewart Pew's diagram on total desgin (36 different sections) -> Black Board FEEG1201
+* Ara suggests looking at open source plugins and using what has already been done.
+* Danae mentioned that the Interim Report is due the 7th of November.
+    * Interim report is similar to what we did for IP but we need slides.
+    * It is formative so get the most out of it
+        * Add the things that we want feedback on.
+        * Ara thinks we have most of what we need to ask.
+* 7th of Novemberis the deadline to nail down exactly what we're doing for this project.
+* Maria can provide an Ultimaker 3!
+
+### ToDo
+* Look at meeting minutes and determine the priorities for what has to be done.
+* 
 
 ## UM Friday 25th October 2024
 
@@ -29,7 +89,7 @@ NEWEST ENTRIES FOLLOW:
 * Vicky is still dealing with four modules this semester.
 * Ara gave us feedback and we changed the slides for this presentation.
 
-### To Do
+### ToDo
 
 ## UM Wednesday 23rd October 2024
 (Vicky and Ben are late >15m)
@@ -194,7 +254,7 @@ Vicky and Ben late
 
 * Environmental, economical, ethical and other human aspects of this project must be adressed.
 
-* READ THE GUDELINE REQUIREMENTS.
+* READ THE GUDELINE REQUIREMENTS.notification
 
 * For GDP budget you often pay for material.
     * We may need to do a health and risk assessment.
