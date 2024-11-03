@@ -21,6 +21,7 @@ NEWEST ENTRIES FOLLOW:
     * Total design diagram is extremely helpful.
         * Show that I have purchased book because it is not in the library or kindle.
     * Advice on how to write a Design Specification in general is extremely helpful.
+* Ask about considering if we're making a product that would be sold.
 
 
 
@@ -36,6 +37,11 @@ NEWEST ENTRIES FOLLOW:
 * Say that anyone is welcome to come up with a better mission patch design.
 
 ### Meeting
+* Danae agrees that we should use SMART objectives to plan the whole project.
+    * SMART objectives reqiured for Interim by markscheme.
+* There is some talk about whether we are making a product sold to individuals.
+* New Tasks have been asigned to define SMART Objectives and Research solutions.
+
 
 
 ## UM Wednesday 30th October 2024
